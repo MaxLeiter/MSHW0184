@@ -1,3 +1,3 @@
 # MSHW0184 driver
 
-Basically an exact copy of `linux/drivers/iio/light/apds9960.c` with an ACPI match table and some other modifications
+A driver for the MSHW0184 deivce based on the apds9960. currently being upstreamed so you shouldn't need this. 
